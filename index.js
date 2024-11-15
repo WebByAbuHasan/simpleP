@@ -16,3 +16,6 @@ console.log(aa);
 console.log(bb);
 console.log(cc);
 console.log(aa);
+
+var arr = ("abu", "aka", "dish");
+console.log(arr);
